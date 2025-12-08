@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "noxboera:birch_fog"
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.0456,
+          "max_density_height": 50,
+          "zero_density_height": 150,
+          "uniform": false
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [0.222, 0.155, 0.0999],
+          "absorption": [0.3, 0.3, 0.3]
+        }
+      },
+      "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.5
+        }
+      }
+    }
+  }
+}
