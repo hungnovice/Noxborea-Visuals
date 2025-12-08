@@ -2,7 +2,7 @@
   "format_version": "1.21.80",
   "minecraft:water_settings": {
     "description": {
-      "identifier": "minecraft:default_water"
+      "identifier": "noxboera:default_water"
     },
     "particle_concentrations": {
       "chlorophyll": 0.0,
@@ -11,22 +11,22 @@
     },
     "caustics": {
       "enabled": true,
-      "frame_length": 0.09,
-      "scale": 0.5,
+      "frame_length": 0.025,
+      "scale": 0.025,
       "power": 1
     },
     "waves": {
       "enabled": false,
-      "frequency": 1,
-      "octaves": 28,
-      "depth": 1,
-      "sampleWidth": 0.009999999776482582,
+      "frequency": 0.045,
+      "octaves": 10,
+      "depth": 0.04,
       "speed": 2,
-      "shape": 1.5,
-      "pull": 0.3799999952316284,
-      "mix": 0.20000000298023224,
-      "frequency_scaling": 1.2000000476837158,
-      "speed_scaling": 1.0299999713897705
+      "shape": 4,
+      "pull": 0.3,
+      "mix": 0.2,
+      "frequency_scaling": 1.2,
+      "speed_scaling": 1
     }
   }
 }
+
