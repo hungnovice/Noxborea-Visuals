@@ -3,7 +3,7 @@
   "minecraft:client_biome": {
     "description": {
       "identifier": "warm_ocean"
-    }
+      }
     }
   }
 }
