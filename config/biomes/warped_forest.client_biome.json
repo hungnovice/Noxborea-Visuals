@@ -6,7 +6,15 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft:fog_warped_forest"
+        "fog_identifier": "noxboera:default_fog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#905957"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": "ambient.warped_forest.additions",
+        "loop": "ambient.warped_forest.loop",
+        "mood": "ambient.warped_forest.mood"
       }
     }
   }
