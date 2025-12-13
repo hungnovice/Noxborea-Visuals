@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "noxboera:fog_default"
+        "fog_identifier": "noxboera:default_fog"
       }
     }
   }
