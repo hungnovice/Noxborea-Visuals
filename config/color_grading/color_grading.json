@@ -16,7 +16,7 @@
       "highlights": {
        "enabled": true,
        "highlightsMin": 12,
-       "contrast": [1.04, 1.04, 1.04],
+       "contrast": [1.1, 1.1, 1.1],
        "gain": [1, 1, 1],
        "gamma": [2.2, 2.2, 2.2],  
        "offset": [0.0, 0.0, 0.0],
