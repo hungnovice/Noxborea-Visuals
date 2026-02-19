@@ -3,7 +3,7 @@
   "minecraft:atmosphere_settings": {
     "description": { "identifier": "noxboera:default_atmospherics" },
     "sky_zenith_color": {
-      "0.0": [23, 77, 112], //noon
+      "0.0": [95, 250, 252], //noon
       "0.23": [130, 66, 19], //afternoon
       "0.24": [130, 66, 19],   //pre-sunset
       "0.25": [130, 66, 19], //sunset
@@ -11,11 +11,11 @@
       "0.3": [19, 61, 97],   //night
       "0.5": [19, 61, 97],  //midnight
       "0.6576": [19, 61, 97], //midnight
-      "0.75": [74, 111, 165], //day-transition
-      "0.82": [23, 77, 112], // day
-      "0.85": [23, 77, 112], //day
-      "0.92": [23, 77, 112], //day
-      "1.0": [23, 77, 112] //noon
+      "0.75": [95, 250, 252], //day-transition
+      "0.82": [95, 250, 252], // day
+      "0.85": [95, 250, 252], //day
+      "0.92": [95, 250, 252], //day
+      "1.0": [95, 250, 252] //noon
     },
     "sky_horizon_color": {
       "0.0": [102, 160, 200],
