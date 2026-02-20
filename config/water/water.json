@@ -2,7 +2,7 @@
   "format_version": "1.21.80",
   "minecraft:water_settings": {
     "description": {
-      "identifier": "noxboera:default_water"
+      "identifier"noxborea:default_water"
     },
     "particle_concentrations": {
       "chlorophyll": 0.0,
