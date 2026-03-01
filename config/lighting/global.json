@@ -61,7 +61,7 @@
       }
     },
     "emissive": {
-      "desaturation": 0.05,
+      "desaturation": 0.05
     },
     "ambient": {
       "illuminance": 0.3,
