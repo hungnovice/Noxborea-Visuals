@@ -8,16 +8,16 @@
       "midtones": {
        "midtonesMax": 60,
        "contrast": [1.04, 1.04, 1.04],
-       "gain": [1, 1, 1],
+       "gain": [1.2, 1.2, 1.2],
        "gamma": [2.2, 2.2, 2.2],  
        "offset": [0.0, 0.0, 0.0],
        "saturation": [1.05, 1.05, 1.05]
       },
       "highlights": {
        "enabled": true,
-       "highlightsMin": 12,
-       "contrast": [1.1, 1.1, 1.1],
-       "gain": [1, 1, 1],
+       "highlightsMin": 20,
+       "contrast": [1.35, 1.35, 1.35],
+       "gain": [1.2, 1.2, 1.2],
        "gamma": [2.2, 2.2, 2.2],  
        "offset": [0.0, 0.0, 0.0],
        "saturation": [1.1, 1.1, 1.1]
